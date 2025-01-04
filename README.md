@@ -4,6 +4,7 @@ This application is a calculator that supports performing arithmetic operations 
 
 Features
 
+
 Support for both Roman and Arabic numerals.
 Input validation (e.g., numbers must be within the range from 1 to 10 and must use the same numeral system).
 Error handling: division by zero, negative results for Roman numerals, and invalid operations.
